@@ -77,7 +77,3 @@ Para crear imágenes más eficientes y seguras, se recomienda:
 4. **Utilizar archivos `.dockerignore` para excluir archivos innecesarios en la imagen.**
 
 ---
-
-## Conclusión
-
-Crear imágenes personalizadas en Docker permite un mayor control sobre el entorno de ejecución de las aplicaciones. Usar `Dockerfile` facilita la automatización y el mantenimiento de estas imágenes, garantizando consistencia en los despliegues.
