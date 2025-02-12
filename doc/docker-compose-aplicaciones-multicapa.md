@@ -107,7 +107,3 @@ services:
 ```
 
 ---
-
-## Conclusión
-
-Docker Compose simplifica la gestión de aplicaciones multicontenedor al permitir definir configuraciones en un solo archivo. Su uso facilita el despliegue y mantenimiento de aplicaciones complejas con múltiples servicios interconectados.
