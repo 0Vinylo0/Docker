@@ -80,7 +80,3 @@ Docker proporciona varios tipos de redes para diferentes escenarios:
   ```
 
 ---
-
-## Conclusión
-
-Las redes en Docker permiten la comunicación entre contenedores y la integración con redes externas. Elegir el tipo de red adecuado para cada caso mejora el rendimiento y la seguridad de los despliegues en Docker.
