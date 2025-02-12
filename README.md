@@ -11,6 +11,8 @@ Docker es una plataforma que permite a los desarrolladores crear, desplegar y ej
 
 ## Índice
 
+<img src="/img/clipart1469802.png" alt="GIF" width="200" height="175" align="right">
+
 1. [Ejecutando y gestionando contenedores](/doc/ejecutando-y-gestionando-contenedores.md)
 2. [Gestión de imágenes en Docker](/doc/gestión-de-imágenes-en-docker.md)
 3. [Los datos en los contenedores](/doc/los-datos-en-los-contenedores.md)
