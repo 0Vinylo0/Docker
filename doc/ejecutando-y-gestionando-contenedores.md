@@ -93,7 +93,3 @@ Para ejecutar un contenedor en Docker, utilizamos el comando `docker run`. Este 
   ```
 
 ---
-
-## Conclusión
-
-Docker facilita la ejecución y gestión de contenedores a través de comandos simples. Aprender a usarlos eficientemente permite optimizar el desarrollo y la administración de aplicaciones en entornos aislados y portátiles.
