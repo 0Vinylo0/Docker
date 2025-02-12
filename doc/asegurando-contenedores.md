@@ -85,7 +85,3 @@ Para detectar amenazas, es recomendable monitorear los contenedores:
   ```
 
 ---
-
-## Conclusión
-
-Implementar prácticas de seguridad en Docker es crucial para minimizar vulnerabilidades y proteger tanto los contenedores como el sistema anfitrión. Aplicar configuraciones seguras, limitar privilegios y monitorizar actividades ayuda a mantener un entorno de contenedores más seguro.
