@@ -87,7 +87,3 @@ Las imágenes pueden etiquetarse para facilitar su identificación y almacenamie
   ```
 
 ---
-
-## Conclusión
-
-Gestionar imágenes en Docker es fundamental para el despliegue eficiente de aplicaciones. Con estos comandos y conceptos, se pueden administrar imágenes de manera efectiva en cualquier entorno.
